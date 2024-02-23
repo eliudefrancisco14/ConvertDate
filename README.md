@@ -1,27 +1,27 @@
-# Handling Date and Time Data Types in C# (Gerenciamento de Tipos de Dados de Data e Hora em C#)
+# Handling Date and Time Data Types in C#
 
-Este é um projeto simples em C# que aborda o manuseio de tipos de dados de data e hora, bem como conversões entre eles. Aqui estão alguns dos principais temas abordados neste projeto:
+This is a simple C# project that addresses handling of date and time data types, as well as conversions between them. Here are some of the key topics covered in this project:
 
-## Conversão de Data para String
+## Converting Date to String
 
-Demonstramos como converter um objeto de data para uma representação de string legível.
+We demonstrate how to convert a date object to a readable string representation.
 
-## Obtendo a Data e Hora Atuais
+## Getting Today’s Date and Time
 
-Mostramos como obter a data e hora atuais usando os recursos oferecidos pela linguagem C#.
+We show how to obtain the current date and time using the features offered by the C# language.
 
-## Extração de Dia, Mês e Ano da Data
+## Extracting Day, Month, and Year from Date
 
-Exploramos métodos para extrair componentes individuais, como dia, mês e ano, de um objeto de data.
+We explore methods for extracting individual components such as day, month, and year from a date object.
 
-## Sobre o Tipo de Dados TimeSpan
+## About the TimeSpan Data Type
 
-Introduzimos o tipo de dados TimeSpan e como ele pode ser usado para representar intervalos de tempo.
+We introduce the TimeSpan data type and how it can be used to represent time intervals.
 
-Este projeto serve como um guia introdutório para lidar com dados de data e hora em C#, além de fornecer insights sobre as operações comuns realizadas com esses tipos de dados.
+This project serves as an introductory guide to handling date and time data in C#, along with providing insights into common operations performed with these data types.
 
-Fique à vontade para explorar o código-fonte e os exemplos fornecidos neste repositório para aprofundar seu entendimento sobre o assunto.
+Feel free to explore the source code and examples provided in this repository to deepen your understanding of the subject.
 
 ---
 
-**Nota:** Este projeto é apenas para fins educacionais e de demonstração. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
+**Note:** This project is for educational and demonstration purposes only. If you have any questions or suggestions, feel free to get in touch!
