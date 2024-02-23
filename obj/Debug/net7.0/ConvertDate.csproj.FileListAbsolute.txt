@@ -1,0 +1,15 @@
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/ConvertDate.csproj.AssemblyReference.cache
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/ConvertDate.GeneratedMSBuildEditorConfig.editorconfig
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/ConvertDate.AssemblyInfoInputs.cache
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/ConvertDate.AssemblyInfo.cs
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/ConvertDate.csproj.CoreCompileInputs.cache
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/bin/Debug/net7.0/ConvertDate
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/bin/Debug/net7.0/ConvertDate.deps.json
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/bin/Debug/net7.0/ConvertDate.runtimeconfig.json
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/bin/Debug/net7.0/ConvertDate.dll
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/bin/Debug/net7.0/ConvertDate.pdb
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/ConvertDate.dll
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/refint/ConvertDate.dll
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/ConvertDate.pdb
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/ConvertDate.genruntimeconfig.cache
+/home/eliude/Documents/PRÁTICA Projectos/ConvertDate/obj/Debug/net7.0/ref/ConvertDate.dll
